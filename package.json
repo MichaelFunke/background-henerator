@@ -1,6 +1,6 @@
 {
   "name": "first-package",
-  "version": "1.0.0",
+  "": "1.0.0",
   "description": "Some description",
   "main": "app.js",
   "scripts": {
